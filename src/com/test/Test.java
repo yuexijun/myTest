@@ -12,6 +12,7 @@ public class Test {
 	}
 	
 	public static void f1(){
+		//打印f1
 		System.out.println("f1");
 	}
 
