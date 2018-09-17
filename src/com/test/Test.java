@@ -12,7 +12,7 @@ public class Test {
 	}
 	
 	public static void f1(){
-		//打印f1
+		//打印f1，测试git文件冲突
 		System.out.println("f1");
 	}
 
