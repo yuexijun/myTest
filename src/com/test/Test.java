@@ -10,5 +10,9 @@ public class Test {
 		//添加一行注释   打印desktopGit
 		System.out.println("desktopGit");
 	}
+	
+	public static void f1(){
+		
+	}
 
 }
