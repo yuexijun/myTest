@@ -12,7 +12,7 @@ public class Test {
 	}
 	
 	public static void f1(){
-		//打印f1
+		//打印f1，新方法的注释
 		System.out.println("f1");
 	}
 
