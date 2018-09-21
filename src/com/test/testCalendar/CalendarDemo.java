@@ -13,8 +13,7 @@ public class CalendarDemo {
 	/**
      * 根据身份编号获取年龄
      *
-     * @param idCard
-     *            身份编号
+     * @param idCard 身份编号
      * @return 年龄
      */
 	public static void getAgeByIdCard(String idCard) {
